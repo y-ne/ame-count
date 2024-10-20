@@ -3,7 +3,7 @@ fn sum(a: i32, b: i32) -> i32 {
 }
 
 fn main() {
-    println!("Hello, mom!");
+    println!("Hello, ame!");
 
     let result = sum(5, 3);
     println!("sum : {}", result);
